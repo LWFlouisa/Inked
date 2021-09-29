@@ -3,6 +3,8 @@ title: Charcoal Illustrating An Opus
 author: SRWeaver
 tags: introduction artist inking diary
 ---
+![image](https://raw.githubusercontent.com/LWFlouisa/Inked/main/assets/images/posts/annotations-to-pro-git-2e/banner.jpeg)
+
 Charcoal ink dries surprisingly quickly on the right substrate.
 
 Initially I became curious if using charcoal soot and mixing it with vinegar would produce more wet version of when you make charcoal sticks.
