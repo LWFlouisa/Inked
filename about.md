@@ -2,6 +2,6 @@
 layout: page
 title: About
 ---
-![image](https://git.disroot.org/UploadedFairyStudios/RPGMakerImages/raw/branch/main/EikW-xBXgAA_RPb.png)
+<img src="https://raw.githubusercontent.com/LWFlouisa/RPGMakerImages/main/EikW8-WWkAEu-3u.png" width="100%">
 
 This will function as my personal artist diary. Do not republish these without my permission.
