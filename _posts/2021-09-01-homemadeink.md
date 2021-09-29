@@ -1,3 +1,8 @@
+---
+title: Homemade Ink
+author: SRWeaver
+tags: introduction artist inking diary
+---
 I started making my own classical style ink. This isnt as difficult as you might think. The main thing to worry about is thickness: thicker ink is for brushes, and resembles more oil paint. Thinner ink is more like water color. Often calligraphy pens require a thinner ink or your nib will get clogged.
 
 I prefer sketching on a watercolor paper for drafts, and painting canvases for the final version of my work. In general these are either 8 inch height by 10 inch width or 9 by 12.
