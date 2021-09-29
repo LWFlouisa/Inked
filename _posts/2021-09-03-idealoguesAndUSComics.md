@@ -1,3 +1,8 @@
+---
+title: Idealogues And US Comics
+author: SRWeaver
+tags: introduction artist inking diary
+---
 Sometimes Ill get a comment on social media either about the file size of an image, or perhaps that I have a wonky microphone. The important take away is they never seem to offer a solution for how to shrink an image, or a specific microphone model. At least in writing communities, theoretically people will have an idea on some suggestions on what you need to fix.
 
 But I honestly cannot say this about people where their entire existence seems contigent upon reverse engineering every single thing I say on places like Twitter or comicfury. Sometimes the surface details is all there really is to it. I suspect this is do to idealogy creeping into nerd culture spaces. Though exactly what idealogy this is I cant say for sure.
